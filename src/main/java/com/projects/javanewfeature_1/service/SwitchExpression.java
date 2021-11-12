@@ -18,8 +18,6 @@ public class SwitchExpression {
             case MONDAY -> null;
             case WEDNESDAY -> null;
             case THURSDAY, TUESDAY -> "hello";
-
-            //System.out.println(day);
             case FRIDAY -> null;
             case SATURDAY -> null;
             case SUNDAY -> null;
